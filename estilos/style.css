@@ -31,7 +31,15 @@ section#cell {
 }
 
 section#redes {
-    background-color: green;
+    background-color: rgba(0, 128, 0, 0.473);
     height: 100%;
     width: 200px;
+}
+
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 471px;
+    width: 269px;
 }
